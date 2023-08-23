@@ -1,0 +1,26 @@
+Educação Física - Matutino - Licenciatura-Goiânia-638.01
+Educação Física - Vespertino - Licenciatura-Goiânia-642.06
+Educação Física - Matutino - Licenciatura-Catalão-580.4
+Educação Física - Integral - Licenciatura-Jataí-594.35
+Filosofia - Noturno - Bacharelado-Goiânia-603.63
+Filosofia - Noturno - Bacharelado-Goiás-521.96
+Filosofia - Noturno - Licenciatura-Goiás-542.38
+Geografia - Noturno - Bacharelado-Catalão-550.74
+Geografia - Noturno - Licenciatura-Catalão-549.99
+Geografia - Matutino - Bacharelado-Goiânia-619.9
+Geografia - Matutino - Licenciatura-Goiânia-617.6
+Geografia - Noturno - Licenciatura-Goiânia-616.3
+Geografia - Noturno - Bacharelado-Jataí-553.38
+Geografia - Noturno - Licenciatura-Jataí-552.51
+História - Noturno - Licenciatura-Jataí-564.88
+História - Noturno - Licenciatura-Catalão-573.3
+História - Matutino - Licenciatura-Goiânia-665.97
+História - Noturno - Licenciatura-Goiânia-659.9
+História - Noturno - Bacharelado-Catalão-574.87
+Pedagogia - Noturno - Licenciatura-Catalão-556.14
+Pedagogia - Matutino - Licenciatura-Goiânia-612.81
+Pedagogia - Noturno - Licenciatura-Goiânia-617.74
+Pedagogia - Matutino - Licenciatura-Jataí-538.35
+Pedagogia - Noturno - Licenciatura-Jataí-558.64
+Psicologia - Integral - Bacharelado-Jataí-690.59
+Relações Internacionais - Matutino - Bacharelado-Goiânia-730.88

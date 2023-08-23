@@ -1,0 +1,24 @@
+Biomedicina- Integral - Bacharelado-Jataí-658.75
+Biomedicina- Integral - Bacharelado-Goiânia-682.87
+Biotecnologia - Integral - Bacharelado-Goiânia-702.66
+Ciências Ambientais - Integral - Bacharelado-Goiânia-606.74
+Ciências Biológicas - Integral - Bacharelado-Catalão-593.36
+Ciências Biológicas - Matutino - Licenciatura-Catalão-565.76
+Ciências Biológicas - Integral - Bacharelado-Goiânia-663.77
+Ciências Biológicas - Integral - Licenciatura-Goiânia-640.61
+Ciências Biológicas - Noturno - Licenciatura-Goiânia-645.65
+Ciências Biológicas - Integral - Bacharelado-Jataí-574.61
+Ciências Biológicas - Integral - Licenciatura-Jataí-554.24
+Ecologia e Análise Ambiental - Integral - Bacharelado-Goiânia-607.3
+Educação Física - Vespertino - Bacharelado-Goiânia-649.33
+Educação Física - Integral - Bacharelado-Jataí-552.61
+Enfermagem - Integral - Bacharelado-Catalão-650.84
+Enfermagem - Integral - Bacharelado-Goiânia-677.31
+Enfermagem - Integral - Bacharelado-Jataí-638.1
+Farmácia - Integral - Bacharelado-Goiânia-677.14
+Fisioterapia - Integral - Bacharelado-Jataí-641.72
+Medicina - Integral - Bacharelado-Jataí-776.62
+Medicina - Integral - Bacharelado-Catalão-777.98
+Medicina - Integral - Bacharelado-Goiânia-783.39
+Nutrição - Integral - Bacharelado-Goiânia-686.35
+Odontologia - Integral - Bacharelado-Goiânia-728.4
